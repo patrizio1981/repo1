@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is E0FF-8E86
+
+ Directory of C:\Users\ptted\Desktop\myproject
+
+09/15/2022  09:32 AM    <DIR>          .
+09/15/2022  09:28 AM    <DIR>          ..
+09/15/2022  09:32 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  935,130,861,568 bytes free
